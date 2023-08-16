@@ -1,5 +1,5 @@
 import Head from "next/head";
-import {,
+import {
   AiFillLinkedin,
   AiFillGithub,
   AiFillMail,
@@ -62,11 +62,11 @@ export default function Home() {
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Are you looking for professional programming and design services?
               Your search ends here! As an experienced freelance front-end
-              developer, I'm equipped to meet all your development needs.
+              developer, I&apos;m equipped to meet all your development needs.
               Whether you require top-notch web development, expert front-end
               programming, exceptional UI/UX design, or any other related tasks,
-              I'm here to help. Let's join forces and transform your ideas into
-              reality!
+              I&apos;m here to help. Let&apos;s join forces and transform your
+              ideas into reality!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="mailto:abdullahrh64@gmail.com">
@@ -80,7 +80,7 @@ export default function Home() {
               </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" />
+              <Image src={deved} layout="fill" objectFit="cover" alt="Web 4" />
             </div>
           </div>
         </section>
@@ -91,10 +91,11 @@ export default function Home() {
             </h3>
             <p className="text-md py-2 leading-8 text-gray-100 relative z-10">
               Are you in need of professional front-end development services?
-              Look no further! As a front-end developer, I'm here to assist you.
-              Whether you require web development, front-end programming, UI/UX
-              design, or any other development-related tasks, I've got you
-              covered. Let's collaborate and bring your ideas to life!
+              Look no further! As a front-end developer, I&apos;m here to assist
+              you. Whether you require web development, front-end programming,
+              UI/UX design, or any other development-related tasks, I&apos;ve
+              got you covered. Let&apos;s collaborate and bring your ideas to
+              life!
             </p>
             <p className="text-md py-2 leading-8 text-gray-100 relative z-10">
               I offer a wide range of services specifically tailored to
@@ -109,6 +110,7 @@ export default function Home() {
                 width={100}
                 height={100}
                 className="mx-auto"
+                alt="Web 4"
               />
               <h3 className="text-lg font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
                 Web Developer at Your Service!
@@ -128,7 +130,13 @@ export default function Home() {
               </ul>
             </div>
             <div className="text-center bg-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 transform hover:scale-105">
-              <Image src={code} width={100} height={100} className="mx-auto" />
+              <Image
+                src={code}
+                width={100}
+                height={100}
+                className="mx-auto"
+                alt="Web 4"
+              />
               <h3 className="text-lg font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
                 Experienced Web Developer Available!
               </h3>
@@ -152,6 +160,7 @@ export default function Home() {
                 width={100}
                 height={100}
                 className="mx-auto"
+                alt="Web 4"
               />
               <h3 className="text-lg font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
                 Efficient Web Development
