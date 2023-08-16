@@ -2,9 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  images: {
-    // Configure your image options here, if needed
-  },
+  // Remove the 'images' property here
 };
 
 module.exports = nextConfig;
