@@ -141,8 +141,8 @@ export default function Home() {
                 Experienced Web Developer Available!
               </h3>
               <p className="py-2 text-gray-700">
-                Do you have an idea for your next great website? Let's make it a
-                reality.
+                Do you have an idea for your next great website? Let&apos;s make
+                it a reality.
               </p>
               <h4 className="py-4 text-gray-900 font-burtons text-xl">
                 Services
@@ -166,8 +166,8 @@ export default function Home() {
                 Efficient Web Development
               </h3>
               <p className="py-2 text-gray-700">
-                Let's explore how Tailwind CSS, Bootstrap, and Sass can elevate
-                your web development projects.
+                Let&apos;s explore how Tailwind CSS, Bootstrap, and Sass can
+                elevate your web development projects.
               </p>
               <h4 className="py-4 text-gray-900 font-burtons text-xl">
                 efficiency benefits
