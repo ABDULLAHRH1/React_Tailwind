@@ -16,6 +16,9 @@ import web2 from "../public/web2.png";
 import web3 from "../public/web3.png";
 import web4 from "../public/web4.png";
 import web5 from "../public/web5.png";
+import web6 from "../public/web6.png";
+import web7 from "../public/web7.png";
+import web8 from "../public/web8.png";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -221,7 +224,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      HTML and CSS Template One
+                      HTML - CSS
                     </p>
                   </div>
                 </div>
@@ -243,7 +246,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      HTML and CSS Template Two
+                      HTML - CSS
                     </p>
                   </div>
                 </div>
@@ -265,7 +268,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      HTML and CSS Template Three
+                      HTML - CSS
                     </p>
                   </div>
                 </div>
@@ -287,7 +290,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      HTML, CSS, and JavaScript Template Four
+                      HTML - CSS - JavaScript
                     </p>
                   </div>
                 </div>
@@ -309,7 +312,73 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      Abdullah Dashboard
+                      HTML - CSS - JavaScript
+                    </p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="basis-1/3 flex-1 relative transition duration-500 transform hover:-translate-y-2">
+              <a
+                href="https://abdullahrh1.github.io/React-Weather3/"
+                className="block w-full h-full rounded-lg overflow-hidden"
+              >
+                <Image
+                  className="object-cover w-full h-full transition-opacity duration-500 hover:opacity-75"
+                  src={web6}
+                  alt="Web 5"
+                  layout="responsive"
+                  width={600}
+                  height={400}
+                />
+                <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
+                  <div className="flex items-center justify-center h-full">
+                    <p className="text-white text-center text-lg font-bold">
+                      React - API - Axios
+                    </p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="basis-1/3 flex-1 relative transition duration-500 transform hover:-translate-y-2">
+              <a
+                href="https://abdullahrh1.github.io/crypto/"
+                className="block w-full h-full rounded-lg overflow-hidden"
+              >
+                <Image
+                  className="object-cover w-full h-full transition-opacity duration-500 hover:opacity-75"
+                  src={web7}
+                  alt="Web 5"
+                  layout="responsive"
+                  width={600}
+                  height={400}
+                />
+                <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
+                  <div className="flex items-center justify-center h-full">
+                    <p className="text-white text-center text-lg font-bold">
+                      React - API - Axios - React-Router-Dom
+                    </p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div className="basis-1/3 flex-1 relative transition duration-500 transform hover:-translate-y-2">
+              <a
+                href="https://abdullahrh1.github.io/React-Tailwind-Nike/"
+                className="block w-full h-full rounded-lg overflow-hidden"
+              >
+                <Image
+                  className="object-cover w-full h-full transition-opacity duration-500 hover:opacity-75"
+                  src={web8}
+                  alt="Web 5"
+                  layout="responsive"
+                  width={600}
+                  height={400}
+                />
+                <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
+                  <div className="flex items-center justify-center h-full">
+                    <p className="text-white text-center text-lg font-bold">
+                      React - Tailwind
                     </p>
                   </div>
                 </div>
