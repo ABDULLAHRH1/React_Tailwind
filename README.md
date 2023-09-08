@@ -9,12 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Smooth Animations</strong>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </p>
 
 <p align="center">
