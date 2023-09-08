@@ -1,9 +1,5 @@
 import Head from "next/head";
-import {
-  AiFillLinkedin,
-  AiFillGithub,
-  AiFillMail,
-} from "react-icons/ai";
+import { AiFillLinkedin, AiFillGithub, AiFillMail } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 import deved from "../public/dev-ed-wave.png";
@@ -93,16 +89,16 @@ export default function Home() {
               Services I Offer
             </h3>
             <p className="text-md py-2 leading-8 text-gray-100 relative z-10">
-              Are you in need of professional front-end development services?
-              Look no further! As a front-end developer, I&apos;m here to assist
-              you. Whether you require web development, front-end programming,
-              UI/UX design, or any other development-related tasks, I&apos;ve
-              got you covered. Let&apos;s collaborate and bring your ideas to
-              life!
+              Are you seeking professional front-end development services? Look
+              no further! As a front-end developer, I&apos;m here to provide you
+              with top-notch solutions. Whether you need web development,
+              front-end programming, UI/UX design, or any other
+              development-related tasks, I&apos;ve got you covered. Let&apos;s
+              work together to bring your ideas to life!
             </p>
             <p className="text-md py-2 leading-8 text-gray-100 relative z-10">
-              I offer a wide range of services specifically tailored to
-              front-end development, including
+              I offer a comprehensive array of services that are specifically
+              tailored to front-end development, including
             </p>
             <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-r from-purple-500 to-pink-500 opacity-0 hover:opacity-100 transition-opacity duration-500"></div>
           </div>
@@ -191,11 +187,11 @@ export default function Home() {
             </h3>
             <p class="text-lg text-gray-100 mb-8 relative z-10">
               I am proficient in HTML, CSS, and JavaScript, and have experience
-              working with popular frameworks such as React. Leveraging these
-              technologies, I build interactive and dynamic websites that
-              provide a seamless user experience. I stay up-to-date with the
-              latest industry trends and best practices to ensure my code is
-              clean, maintainable, and scalable.
+              working with popular frameworks such as React. these technologies,
+              I build interactive and dynamic websites that provide a seamless
+              user experience. I stay up-to-date with the latest industry trends
+              and best practices to ensure my code is clean, maintainable, and
+              scalable.
             </p>
             <p class="text-lg text-gray-100 relative z-10">
               I create websites that adapt beautifully across various platforms.
