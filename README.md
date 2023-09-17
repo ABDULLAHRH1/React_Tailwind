@@ -27,3 +27,12 @@
   </a>
   <img src="https://img.icons8.com/color/80/000000/github--v1.png" alt="GitHub" />
 </p>
+
+## 🚀 Get Started
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```shell
+   git clone https://github.com/ABDULLAHRH1/React_Tailwind.git
