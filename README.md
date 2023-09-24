@@ -31,4 +31,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1/HTML_And_CSS_Template_Two.git
+   git clone https://github.com/ABDULLAHRH1/React_Tailwind.git
