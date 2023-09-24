@@ -7,7 +7,8 @@
 <h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 My Super Cool Website 🚀</h1>
 
 <!-- Project Description -->
-<p align="center" style="font-size: 24px; color: #666; font-family: 'Arial', sans-serif;">Experience a stunning showcase of HTML and CSS skills infused with creativity.</p>
+<p align="center" style="font-size: 24px; color: #666; font-family: 'Arial', sans-serif;">  A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
+</p>
 
 <!-- Key Features -->
 <p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
