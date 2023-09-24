@@ -21,10 +21,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="96" height="96" style="margin: 0 20px;" />
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" />
-  </a>
-    <a href="https://abdullahrh1.github.io/React_Tailwind/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-My%20Experiences%20-%2373B3F3?style=flat-square" alt="My Experiences" style="margin: 0 10px;" />
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 0 10px;" />
+>
 </p>
 
 ## Get Started
