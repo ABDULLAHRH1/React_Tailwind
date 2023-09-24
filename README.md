@@ -4,20 +4,18 @@
 </p>
 
 <!-- Project Title -->
-<h1 align="center">🚀 My Super Cool Website 🚀</h1>
+<h1 align="center" style="font-size: 48px; margin-top: 20px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">🚀 My Super Cool Website 🚀</h1>
 
 <!-- Project Description -->
-<p align="center">
-  Welcome to my stunning website, where creativity meets HTML and CSS expertise.
-</p>
+<p align="center" style="font-size: 24px; margin-top: 20px; color: #666;">Welcome to my stunning website, where creativity meets HTML and CSS expertise.</p>
 
 <!-- Key Features -->
-<p align="center">
-  <img src="https://img.icons8.com/color/64/000000/design--v1.png" alt="Design" />
+<p align="center" style="font-size: 24px; margin-top: 20px; color: #333;">
+  <img src="https://img.icons8.com/color/64/000000/design--v1.png" alt="Design" style="vertical-align: middle; margin-right: 10px;" />
   <strong>✨ Clean Design</strong> |
-  <img src="https://img.icons8.com/color/64/000000/responsive.png" alt="Responsive" />
+  <img src="https://img.icons8.com/color/64/000000/responsive.png" alt="Responsive" style="vertical-align: middle; margin: 0 10px;" />
   <strong>📱 Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/64/000000/animation--v1.png" alt="Animations" />
+  <img src="https://img.icons8.com/color/64/000000/animation--v1.png" alt="Animations" style="vertical-align: middle; margin-left: 10px;" />
   <strong>💫 Smooth Animations</strong>
 </p>
 
@@ -30,9 +28,7 @@
 </p>
 
 <!-- Personal Note -->
-<p align="center">
-  <em>👉 Feel free to explore and get inspired by my code! 🚀</em>
-</p>
+<p align="center" style="font-style: italic; font-size: 20px; margin-top: 20px; color: #333;">👉 Feel free to explore and get inspired by my code! 🚀</p>
 
 ## Get Started
 
