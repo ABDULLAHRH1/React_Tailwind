@@ -1,6 +1,6 @@
 <!-- Project Screenshot -->
 <p align="center">
-  <img src="images/web2.png" alt="Project Screenshot" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <img src="public/web.png" alt="Project Screenshot" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <!-- Project Title -->
