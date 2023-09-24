@@ -54,10 +54,10 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10 py-10">
-            <h2 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-6xl font-burtons text-xl">
+            <h2 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-6xl font-burtons ">
               Abdullah
             </h2>
-            <h3 className="text-2xl py-2 dark:text-white md:text-3xl font-burtons text-xl">
+            <h3 className="text-2xl py-2 dark:text-white md:text-3xl font-burtons ">
               Front End developer.
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
@@ -113,7 +113,7 @@ export default function Home() {
                 className="mx-auto"
                 alt="Web 4"
               />
-              <h3 className="text-lg font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
+              <h3 className="font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
                 Web Developer at Your Service!
               </h3>
               <p className="py-2 text-gray-700">
@@ -138,7 +138,7 @@ export default function Home() {
                 className="mx-auto"
                 alt="Web 4"
               />
-              <h3 className="text-lg font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
+              <h3 className="font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
                 Experienced Web Developer Available!
               </h3>
               <p className="py-2 text-gray-700">
@@ -163,7 +163,7 @@ export default function Home() {
                 className="mx-auto"
                 alt="Web 4"
               />
-              <h3 className="text-lg font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
+              <h3 className=" font-medium pt-6 pb-2 font-burtons text-xl text-gray-900 hover:text-gray-700 transition-colors duration-300">
                 Efficient Web Development
               </h3>
               <p className="py-2 text-gray-700">
@@ -398,7 +398,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      React - Tailwind
+                      React - MUI - Axios - Redux - React-i18next
                     </p>
                   </div>
                 </div>
@@ -420,7 +420,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      React - Tailwind
+                      React - MUI - Axios - Moment
                     </p>
                   </div>
                 </div>
