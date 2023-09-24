@@ -1,14 +1,16 @@
+<!-- Project Screenshot -->
 <p align="center">
-  <img src="public/web.png" alt="Project Screenshot" />
+  <img src="public/web.png" alt="Project Screenshot" style="border: 5px solid #61dafb; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);" />
 </p>
 
-<h1 align="center">🚀 My Super Cool Website 🚀</h1>
+<!-- Project Title -->
+<h1 align="center" style="font-size: 48px; margin-top: 20px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">🚀 Welcome to My Super Cool Website 🚀</h1>
 
-<p align="center">
-  A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
-</p>
+<!-- Project Description -->
+<p align="center" style="font-size: 24px; margin-top: 20px; color: #666;">Explore a captivating website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills, infused with boundless creativity.</p>
 
-<p align="center">
+<!-- Key Features -->
+<p align="center" style="font-size: 24px; margin-top: 20px; color: #333;">
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
   <strong>Clean Design</strong> |
   <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
@@ -17,6 +19,7 @@
   <strong>Smooth Animations</strong>
 </p>
 
+<!-- Technologies Used -->
 <p align="center">
   <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS3" />
