@@ -443,7 +443,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                      React - MUI - Axios - Moment
+                      HTML - CSS - JavaScript
                     </p>
                   </div>
                 </div>
