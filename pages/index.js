@@ -82,7 +82,7 @@ export default function Home() {
               </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" alt="Web 4" />
+              <Image src={deved} layout="fill" objectFit="cover" alt="avatar" />
             </div>
           </div>
         </section>
@@ -427,7 +427,6 @@ export default function Home() {
                 </div>
               </a>
             </div>
-            </div>
             <div className="basis-1/3 flex-1 relative transition duration-500 transform hover:-translate-y-2">
               <a
                 href="https://abdullahrh1.github.io/OUTER-FOAM-FACTORY"
@@ -435,7 +434,7 @@ export default function Home() {
               >
                 <Image
                   className="object-cover w-full h-full transition-opacity duration-500 hover:opacity-75"
-                  src={web10}
+                  src={web11}
                   alt="Web 11"
                   layout="responsive"
                   width={600}
@@ -444,7 +443,7 @@ export default function Home() {
                 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-0 hover:opacity-50 transition-opacity duration-500">
                   <div className="flex items-center justify-center h-full">
                     <p className="text-white text-center text-lg font-bold">
-                       HTML - CSS - JavaScript
+                      React - MUI - Axios - Moment
                     </p>
                   </div>
                 </div>
