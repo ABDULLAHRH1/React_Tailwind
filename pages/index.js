@@ -17,6 +17,7 @@ import web7 from "../public/web7.png";
 import web8 from "../public/web8.png";
 import web9 from "../public/web9.png";
 import web10 from "../public/web10.png";
+import web11 from "../public/web11.png";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
